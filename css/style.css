@@ -156,7 +156,7 @@ h2 {
   margin: auto;
   position: relative;
   max-width: 46em;
-  margin-left: 20%;
+  margin-left: 15%;
 }
 
 .timeline p {
@@ -213,8 +213,22 @@ h2 {
 
 #info-man {
 	width: 40px;
-	margin-left: 21.2%;
+	margin-left: 16.2%;
 	margin-top: 5%;
+}
+
+.about{
+	float: right;
+	margin-top: 7%;
+	max-width: 45%;
+	padding-right: 8%;
+
+}
+
+.about p{
+	font-size: 14px;
+	line-height: 2;
+	font-family: "text";
 }
 
 /* CONTACT */
@@ -270,11 +284,10 @@ h2 {
 	position: relative;
 	width: 60%;
 	margin: 0 auto;	
-	margin-top: 5%;
 }
 
 .img-visualisations img {
-	margin-top: 6%;
+	margin-top: 5%;
 }
 
 #visualisations-h1 {
@@ -283,6 +296,12 @@ h2 {
 	margin-left: -22%;
 }
 
+.img-visualisations p {
+	font-family: "brodtext";
+	font-size: 16px;
+	margin: 0;
+	color: black;
+}
 
 
 /* MEDIA QUERIES */

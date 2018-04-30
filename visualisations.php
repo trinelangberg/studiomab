@@ -56,16 +56,24 @@
 	  
 	   <div class="container">
 	  	 <div class="img-visualisations">
-		  	 <h1 id="visualisations-h1">VISUALISATIONS MADE BY STUDIOMAB</h1>
 			  <img src="images/thewoodshop.jpg" alt="Visualisation of the Wood Shop" width="100%">
+	      		<p>&#124; THE WOOD SHOP &#124; CITY, CONTRY &#124; CREDITS: SCHMIDT, HAMMER  & LASSEN &#124; </p>
 		      <img src="images/thefashion-boutique.jpg" alt="Visualisation of the Fashion Boutique" width="100%">
+		      <p>&#124; THE FASHION BPUTIQUE &#124; CITY, CONTRY &#124; CREDITS: SCHMIDT, HAMMER  & LASSEN &#124;</p>
 		      <img src="images/thefrontalview.jpg" alt="Visualisation frontal view" width="100%">
+		      <p>&#124; THE FRONTAL VIEW, &#124; CITY, CONTRY &#124; CREDITS: SCHMIDT, HAMMER  & LASSEN &#124;</p>
 		   	  <img src="images/block-building.jpg" alt="Visualisation of a block building" width="100%">
-		      <img src="images/block-building2.jpg" alt="Visualisation of a block building from the side" width="100%"> 
+		   	  <p>&#124; BLOCK BUILDING, &#124; CITY, CONTRY &#124; CREDITS: SCHMIDT, HAMMER  & LASSEN &#124;</p>
+		      <img src="images/block-building2.jpg" alt="Visualisation of a block building from the side" width="100%">
+		      <p>&#124; BLOCK BUILDING, &#124; CITY, CONTRY &#124; CREDITS: SCHMIDT, HAMMER  & LASSEN &#124;</p> 
 		      <img src="images/arrival.jpg" alt="Visualisation of arrival place" width="100%">
+		      <p>&#124; ARRIVAL HALL, &#124; CITY, CONTRY &#124; CREDITS: SCHMIDT, HAMMER  & LASSEN &#124;</p>
 		      <img src="images/worldsquare.jpg" alt="Visualisation of World Square" width="100%">
+		      <p>&#124; WORLD SQUARE, &#124; CITY, CONTRY &#124; CREDITS: SCHMIDT, HAMMER  & LASSEN &#124;</p>
 		      <img src="images/soccerfield.jpg" alt="Visualisation of a soccerfield" width="100%">
+		      <p>&#124; TWORLD SQUARE, SOCCERFIELD &#124; CITY, CONTRY &#124; CREDITS: SCHMIDT, HAMMER  & LASSEN &#124;</p>
 		      <img src="images/plaza.jpg" alt="Visualisation of Plaza" width="100%">
+		      <p>&#124; PLAZA, &#124; CITY, CONTRY &#124; CREDITS: SCHMIDT, HAMMER  & LASSEN &#124;</p>
 	  </div>
 		  </div>
 	  

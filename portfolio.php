@@ -26,13 +26,21 @@
 	  
 <!-- TIMELINE SNIPPET FROM http://freefrontend.com/css-timelines/ -->
 	  
+	  	<div class="about">
+	  		<h1>ABOUT</h1> <br>
+	  		<p>STUDIOMAB is a creative collaborative based near Aarhus, Denmark, operating in the fields of architecture, design, urbanism and research. The company was established in 2011 and currently work as a creative community across inventive platforms being able to share in knowledge, ideas and tools. <br><br>
+At STUDIOMAB we believe that architecture and design, whether it is something to live in, sit on or wear, should always share the desire to inhabit and inherit the certain space and feeling connected to it. <br><br>
+We aim to create a lasting social, economic and environmental effect with everything that we take upon us and we always consider our projects in a local, regional and global context, creating societal value beyond brief and client.
+</p>
+	  	</div>
+	  
 	 <img id="info-man" src="images/man-infographics.png" alt="infographic man"> 
 <ul class="timeline">
   <li class="timeline-event">
 	  <label class="timeline-event-icon"></label>
     <div class="timeline-event-copy">
 		<div class="p-dato"><p>2010</p></div>
-      <p>Art and Design </p>
+      <p>Course in Art and Design, Aarhus </p>
     </div>
   </li>
   <li class="timeline-event">
@@ -82,15 +90,8 @@
 	  <label class="timeline-event-icon"></label>
     <div class="timeline-event-copy">
       <div class="p-dato"><p>October 2016</p></div>
-      <p>Fisher House</p>
-		<img src="images/fisk_05.jpg" alt="Fisher House3">
-    </div>
-  </li>
-  <li class="timeline-event">
-	  <label class="timeline-event-icon"></label>
-    <div class="timeline-event-copy">
-      <div class="p-dato"><p>April 2017</p></div>
-      <p>Gammel Munkegade, Baggårds Hus</p>
+      <p>Fisher House, project <a href="http://www.skagen-nordstrand.dk">Skagen Nordstrand</a></p>
+		<img src="images/fisk_05.jpg" alt="Project Fisher House">
     </div>
   </li>
 </ul>
