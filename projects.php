@@ -57,17 +57,18 @@
 <!-- HEADER END -->
 	  
 	  <!--PROJECT IMAGES WITH TEXT START -->
+<div class="wrapper">  
+	 
 	  
-	 <div class="container">  
-	  <div class="img-projects">
 		  	 <h1 id="projects-h1">WE AIM TO CREATE A LASTING SOCIAL, <br> ECONOMIC AND ENVIROMENTAL EFFECT <br> WITH EVERYTHING THAT WE TAKE UPON US</h1>
 		  	 <h2 id="bakery">city apartment <br> redesign of an old bakery </h2>
-			  <img src="images/bakery-finale.jpg" alt="Redesigned bakery" width="100%">
+			  <img id="image" src="images/bakery-finale.jpg" alt="Redesigned bakery" width="100%">
 		  		
 		      <h2 id="bakery-front">frontal view of city apartment <br> redesign of an old bakery </h2>
-			  <img src="images/bakery-frontview.jpg" alt="Redesigned bakery, front view" width="100%">
-	  </div>
-	</div>
+			  <img id="image2" src="images/bakery-frontview.jpg" alt="Redesigned bakery, front view" width="100%">
+	
+    
+    </div>	
 	  
 	   <!--PROJECT IMAGES WITH TEXT END -->
 	
