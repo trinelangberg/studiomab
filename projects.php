@@ -69,6 +69,25 @@
 	
     
     </div>	
+			  <img class="myImg" src="images/bakery-finale.jpg" alt="Redesigned bakery" width="100%">
+		  		
+		      <h2 id="bakery-front">frontal view of city apartment <br> redesign of an old bakery </h2>
+			  <img class="myImg" src="images/bakery-frontview.jpg" alt="Redesigned bakery, front view" width="100%">
+	  </div>
+	</div>
+
+ <!-- The Modal -->
+<div id="myModal" class="modal">
+
+	  <!-- The Close Button -->
+	  <span class="close">&times;</span>
+
+	  <!-- Modal Content (The Image) -->
+	  <img class="modal-content" id="img01">
+
+	  <!-- Modal Caption (Image Text) -->
+	  <div id="caption"></div>
+</div>
 	  
 	   <!--PROJECT IMAGES WITH TEXT END -->
 	

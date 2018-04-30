@@ -6,16 +6,12 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
     <title>VISUALISATIONS</title>
 	  <meta name="description" content="Visualisations of architectual projects made by StudioMAB">
-    <!-- Bootstrap -->
+  
+      <!-- Bootstrap -->
 	<link href="css/bootstrap.css" rel="stylesheet">
+      
 	<link rel="stylesheet" href="css/style.css">
 
-	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-	<!--[if lt IE 9]>
-		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-		<![endif]-->
   </head>
   <body>
 	  
@@ -57,23 +53,23 @@
 	   <div class="container">
 	  	 <div class="img-visualisations">
 			  <img src="images/thewoodshop.jpg" alt="Visualisation of the Wood Shop" width="100%">
-	      		<p>&#124; THE WOOD SHOP &#124; CITY, CONTRY &#124; CREDITS: SCHMIDT, HAMMER  & LASSEN &#124; </p>
+	      		<p>&#124; THE WOOD SHOP &#124; CITY, COUNTRY &#124; CREDITS: SCHMIDT, HAMMER  &amp; LASSEN &#124; </p>
 		      <img src="images/thefashion-boutique.jpg" alt="Visualisation of the Fashion Boutique" width="100%">
-		      <p>&#124; THE FASHION BPUTIQUE &#124; CITY, CONTRY &#124; CREDITS: SCHMIDT, HAMMER  & LASSEN &#124;</p>
+		      <p>&#124; THE FASHION BPUTIQUE &#124; CITY, COUNTRY &#124; CREDITS: SCHMIDT, HAMMER  &amp; LASSEN &#124;</p>
 		      <img src="images/thefrontalview.jpg" alt="Visualisation frontal view" width="100%">
-		      <p>&#124; THE FRONTAL VIEW, &#124; CITY, CONTRY &#124; CREDITS: SCHMIDT, HAMMER  & LASSEN &#124;</p>
+		      <p>&#124; THE FRONTAL VIEW, &#124; CITY, COUNTRY &#124; CREDITS: SCHMIDT, HAMMER  &amp; LASSEN &#124;</p>
 		   	  <img src="images/block-building.jpg" alt="Visualisation of a block building" width="100%">
-		   	  <p>&#124; BLOCK BUILDING, &#124; CITY, CONTRY &#124; CREDITS: SCHMIDT, HAMMER  & LASSEN &#124;</p>
+		   	  <p>&#124; BLOCK BUILDING, &#124; CITY, COUNTRY &#124; CREDITS: SCHMIDT, HAMMER  &amp; LASSEN &#124;</p>
 		      <img src="images/block-building2.jpg" alt="Visualisation of a block building from the side" width="100%">
-		      <p>&#124; BLOCK BUILDING, &#124; CITY, CONTRY &#124; CREDITS: SCHMIDT, HAMMER  & LASSEN &#124;</p> 
+		      <p>&#124; BLOCK BUILDING, &#124; CITY, COUNTRY &#124; CREDITS: SCHMIDT, HAMMER  &amp; LASSEN &#124;</p> 
 		      <img src="images/arrival.jpg" alt="Visualisation of arrival place" width="100%">
-		      <p>&#124; ARRIVAL HALL, &#124; CITY, CONTRY &#124; CREDITS: SCHMIDT, HAMMER  & LASSEN &#124;</p>
+		      <p>&#124; ARRIVAL HALL, &#124; CITY, COUNTRY &#124; CREDITS: SCHMIDT, HAMMER  &amp; LASSEN &#124;</p>
 		      <img src="images/worldsquare.jpg" alt="Visualisation of World Square" width="100%">
-		      <p>&#124; WORLD SQUARE, &#124; CITY, CONTRY &#124; CREDITS: SCHMIDT, HAMMER  & LASSEN &#124;</p>
+		      <p>&#124; WORLD SQUARE, &#124; CITY, COUNTRY &#124; CREDITS: SCHMIDT, HAMMER  &amp; LASSEN &#124;</p>
 		      <img src="images/soccerfield.jpg" alt="Visualisation of a soccerfield" width="100%">
-		      <p>&#124; TWORLD SQUARE, SOCCERFIELD &#124; CITY, CONTRY &#124; CREDITS: SCHMIDT, HAMMER  & LASSEN &#124;</p>
+		      <p>&#124; TWORLD SQUARE, SOCCERFIELD &#124; CITY, COUNTRY &#124; CREDITS: SCHMIDT, HAMMER &amp; LASSEN &#124;</p>
 		      <img src="images/plaza.jpg" alt="Visualisation of Plaza" width="100%">
-		      <p>&#124; PLAZA, &#124; CITY, CONTRY &#124; CREDITS: SCHMIDT, HAMMER  & LASSEN &#124;</p>
+		      <p>&#124; PLAZA, &#124; CITY, COUNTRY &#124; CREDITS: SCHMIDT, HAMMER &amp; LASSEN &#124;</p>
 	  </div>
 		  </div>
 	  
