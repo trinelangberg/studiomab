@@ -62,10 +62,10 @@
 	  <div class="img-projects">
 		  	 <h1 id="projects-h1">WE AIM TO CREATE A LASTING SOCIAL, <br> ECONOMIC AND ENVIROMENTALT EFFECT <br> WITH EVERYTHING THAT WE TAKE UPON US</h1>
 		  	 <h2 id="bakery">city apartment <br> redesign of an old bakery </h2>
-			  <img src="images/bakery-finale.jpg" alt="Redesigned bakery" width="100%">
+			  <img class="myImg" src="images/bakery-finale.jpg" alt="Redesigned bakery" width="100%">
 		  		
 		      <h2 id="bakery-front">frontal view of city apartment <br> redesign of an old bakery </h2>
-			  <img src="images/bakery-frontview.jpg" alt="Redesigned bakery, front view" width="100%">
+			  <img class="myImg" src="images/bakery-frontview.jpg" alt="Redesigned bakery, front view" width="100%">
 	  </div>
 	</div>
 	  
